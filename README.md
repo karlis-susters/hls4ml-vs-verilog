@@ -1,5 +1,7 @@
 # hls4ml-vs-verilog
-For L46
+A performance comparison of the HLS layer implementations in hls4ml against custom Verilog implementations.
+For L46.
+
 
 Notebooks that were used to run hls4ml, generate verilog and run synthesis are given in /notebooks. These were run in a docker container with Vivado, as per the instructions in https://github.com/fastmachinelearning/hls4ml-tutorial  
 
